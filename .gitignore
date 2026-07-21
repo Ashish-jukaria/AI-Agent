@@ -1,0 +1,14 @@
+# Secure Keys
+.env
+
+# Python Environment and Cache
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+env/
+venv/
+
+# Docker/Database Local Data
+data/
+neo4j_data/
