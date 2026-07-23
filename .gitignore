@@ -12,3 +12,6 @@ venv/
 # Docker/Database Local Data
 data/
 neo4j_data/
+
+# Ignore local refactor artifacts
+.refact
