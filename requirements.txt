@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langgraph
+langchain-google-genai
+neo4j
+langchain-neo4j
+mem0ai
